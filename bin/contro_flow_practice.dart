@@ -1,4 +1,3 @@
 void main(){
-  print('hello control flow'
-      '');
+  print('hello control flow');
 }
