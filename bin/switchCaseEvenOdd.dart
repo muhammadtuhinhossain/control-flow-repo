@@ -12,6 +12,6 @@ void main(){
       print('$n is Odd');
       break;
     default:
-      print('Not integer');
+      print('Not integer ');
   }
 }
