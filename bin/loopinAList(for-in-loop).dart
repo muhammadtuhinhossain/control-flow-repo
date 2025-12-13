@@ -6,7 +6,7 @@ void main(){
     print(fruits);
   }
 
-  var students=['Rahim','Karim','Salam'];
+  var students=['Rahim','Karim','Salam','Salam'];//duplicate allow
   print('\nStudents Report: ');
   for(var student in students){
     print('Report for $student');
